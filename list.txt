@@ -2,7 +2,7 @@
 ! Title: Renzhn's AuroProxy List
 
 !google
-/google|ggpht|ytimg|chrome|gstatic|goo.gl/
+/google|ggpht|ytimg|chrome|gstatic|goo.gl|android/
 
 !accelerate these sites
 inoreader.com
