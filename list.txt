@@ -1,0 +1,8 @@
+! HomePage: https://github.com/renzhn/MyAutoProxyList
+! Title: Renzhn's AuroProxy List
+
+!google
+/google|ggpht|ytimg|chrome|gstatic|goo.gl/
+
+!accelerate these sites
+inoreader.com
